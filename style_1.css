@@ -43,14 +43,23 @@ p {
     text-align: center;
     color: white;
 }
-.cruzeiro-image {
-    display: block;
-    margin: 20px auto;
-    width: 50%;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: auto;
     height: auto;
+    flex: 1;
+    background-color: white;
 }
 h2 {
     text-align: center;
     font-size: 2em;
     color: white;
+    background-color: #0065D1;
+}  
+.cruzeiro-image {
+    background-color: white;
 }

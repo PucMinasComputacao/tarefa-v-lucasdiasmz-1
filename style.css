@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+ * {
+    margin: 0px;
+    padding: 0px;
+ }
+
+ body {
+    background-image: linear-gradient(to bottom, #B9C4D2, #006BBB, #153679);
+ }
+ body header {
+    background-color: lightblue;
+    padding: 5px;
+    margin: 0px;
+    border: 3px solid blue;
+    border-radius: 10px;
+ }
+body header section h1 {
+    font-size: 2.5em;
+    font-family: "Inter", sans-serif;
+    color: blue;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+.primeiro-p {
+    font-size: 1.5em;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+p {
+    font-family: "Inter", sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+    margin: 10px;
+
+}
+.lista {
+    font-family: "Inter", sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+}
+.cruzeiro-image {
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+    height: auto;
+}
+h2 {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}

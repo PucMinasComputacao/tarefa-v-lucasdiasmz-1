@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
-
  * {
     margin: 0px;
     padding: 0px;
@@ -13,14 +12,12 @@
     background-color: lightblue;
     padding: 5px;
     margin: 0px;
-    border: 3px solid blue;
-    border-radius: 10px;
  }
 body header section h1 {
     font-size: 2.5em;
     font-family: "Inter", sans-serif;
     color: blue;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.6em;
     text-align: center;
 }
 .primeiro-p {
@@ -43,14 +40,32 @@ p {
     text-align: center;
     color: white;
 }
-.cruzeiro-image {
-    display: block;
-    margin: 20px auto;
-    width: 50%;
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: auto;
     height: auto;
+    flex: 1;
+    background-color: white;
 }
+
 h2 {
     text-align: center;
     font-size: 2em;
     color: white;
+    background-color: #0065D1;
+}  
+
+.cruzeiro-image2 {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
 }
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+

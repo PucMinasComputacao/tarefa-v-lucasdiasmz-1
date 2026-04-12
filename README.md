@@ -11,8 +11,9 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 - Nome: Lucas Dias Melo
 - Matricula: 927740
-- Proposta de projeto escolhida: Página web dedicada ao Cruzeiro, contendo informações sobre o clube.
-- Breve descrição sobre seu projeto: Meu projeto envolvendo um menu inicial de informações sobre o Cruzeiro, envolvendo algumas informações de criação, história e títulos.
+- Proposta de projeto escolhida: Webpage voltada a informações sobre o Cruzeiro Esporte Clube
+- Breve descrição sobre seu projeto: O projeto se baseia em uma breve aba de informações sobre o clube de futebol Cruzeiro, contendo informações sobre histórias e alguns títulos (inicialmente), em breve mais informações serão adicionadas.
+>>>>>>> a15477f (Alterações com Boostrap Iniciais)
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
@@ -24,3 +25,6 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+=======
+![alt text](image.png)
+
